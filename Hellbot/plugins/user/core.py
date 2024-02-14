@@ -53,10 +53,10 @@ async def help(client: Client, message: Message):
 @on_message("repo", allow_stan=True)
 async def repo(_, message: Message):
     REPO_TEXT = (
-        "__🍀 𝖱𝖾𝗉𝗈:__ [Github](https://github.com/The-HellBot/HellBot)\n\n"
-        "__🍀 Updates:__ @Its_HellBot\n"
-        "__🍀 Support:__ @HellBot_Chats\n\n"
-        "**By ©️ @HellBot_Networks**"
+        "__🍀 𝖱𝖾𝗉𝗈:__ [Github](https://github.com/RISHII7205/HEMML)\n\n"
+        "__🍀 Channel:__ @about_rish\n"
+        "__🍀 Owner:__ @FEEL_THE_POWER_OF_UR_DAD\n\n"
+        "**By ©️ @OFFICIAL_PSYCHO_RAJPUT_XD**"
     )
     await hellbot.edit(message, REPO_TEXT, no_link_preview=True)
 
