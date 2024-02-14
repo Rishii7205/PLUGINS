@@ -546,37 +546,37 @@ HelpMenu("superpowers").add(
     "gpromote",
     "<reply/username/id> <reason (optional)>",
     "Promote a user in all the chats where you have add admin right.",
-    "gpromote @ForGo10God Why not?",
+    "gpromote @FEEL_THE_POWER_OF_UR_DAD Why not?",
 ).add(
     "gdemote",
     "<reply/username/id> <reason (optional)>",
     "Demotes a user in all the chats where you are on top level from the user.",
-    "gdemote @ForGo10God Why?",
+    "gdemote @FEEL_THE_POWER_OF_UR_DAD Why?",
 ).add(
     "gban",
     "<reply/username/id> <reason (optional)>",
     "Ban a user in all the chats where you have ban rights.",
-    "gban @ForGo10God :)",
+    "gban @FEEL_THE_POWER_OF_UR_DAD :)",
 ).add(
     "ungban",
     "<reply/username/id>",
     "Unban a user in all the chats where you have ban rights.",
-    "ungban @ForGo10God",
+    "ungban @FEEL_THE_POWER_OF_UR_DAD",
 ).add(
     "gkick",
     "<reply/username/id> <reason (optional)>",
     "Kick a user in all the chats where you have ban rights.",
-    "gkick @ForGo10God :)",
+    "gkick @FEEL_THE_POWER_OF_UR_DAD :)",
 ).add(
     "gmute",
     "<reply/username/id> <reason (optional)>",
     "Mute a user in all the chats where you have mute rights.",
-    "gmute @ForGo10God :)",
+    "gmute @FEEL_THE_POWER_OF_UR_DAD :)",
 ).add(
     "ungmute",
     "<reply/username/id>",
     "Unmute a user in all the chats where you have mute rights.",
-    "ungmute @ForGo10God",
+    "ungmute @FEEL_THE_POWER_OF_UR_DAD",
 ).add(
     "gbanlist", None, "List all the gbanned users.", "gbanlist"
 ).add(
