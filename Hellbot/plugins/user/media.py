@@ -67,7 +67,7 @@ async def mediaInfo(_, message: Message):
 
     await hell.edit(f"Uploading mediainfo to telegraph...")
 
-    to_paste = f"<h1>💫 HellBot Media Info:</h1><br>{metadata}<br><b>📝 MediaInfo:</b><br><code>{out}</code>"
+    to_paste = f"<h1>💫 UserBot Media Info:</h1><br>{metadata}<br><b>📝 MediaInfo:</b><br><code>{out}</code>"
     link = post_to_telegraph("HellBotMediaInfo", to_paste)
 
     await hell.edit(f"**📌 Media Info:** [Here]({link})", disable_web_page_preview=True)
@@ -116,7 +116,7 @@ async def memify(_, message: Message):
     await message.reply_sticker(memes[1])
     await message.reply_photo(
         memes[0],
-        caption=f"**🍀 𝖬𝖾𝗆𝗂𝖿𝗂𝖾𝖽 𝗎𝗌𝗂𝗇𝗀 𝖧𝖾𝗅𝗅𝖡𝗈𝗍!**",
+        caption=f"**🍀 𝖬𝖾𝗆𝗂𝖿𝗂𝖾𝖽 𝗎𝗌𝗂𝗇𝗀 User𝖡𝗈𝗍!**",
     )
 
     os.remove(pic)
