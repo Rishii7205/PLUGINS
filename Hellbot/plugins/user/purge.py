@@ -131,7 +131,7 @@ HelpMenu("purge").add(
     "purgeuser",
     "<reply to user> <count>",
     "Deletes last x number of messages of replied user.",
-    "purgeuser @ForGo10God 69",
+    "purgeuser @FEEL_THE_POWER_OF_UR_DAD 69",
 ).add(
     "del",
     "<reply to message>",
