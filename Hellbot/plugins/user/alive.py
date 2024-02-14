@@ -11,22 +11,28 @@ from TelethonHell.plugins import *
 # -------------------------------------------------------------------------------
 
 ALIVE_TEMP = """
-<b><i>🔥🔥ɦɛʟʟɮօt ɨs օռʟɨռɛ🔥🔥</i></b>
-<b><i>↼ Øwñêr ⇀</i></b> : 『 {hell_mention} 』
-╭──────────────
-┣─ <b>» Telethon:</b> <i>{telethon_version}</i>
-┣─ <b>» 𝐔𝐬𝐞𝐫𝐁ø†:</b> <i>{hellbot_version}</i>
-┣─ <b>» Sudo:</b> <i>{is_sudo}</i>
-┣─ <b>» Uptime:</b> <i>{uptime}</i>
-┣─ <b>» Ping:</b> <i>{ping}</i>
-╰──────────────
-<b><i>»»» <a href='https://t.me/FEEL_THE_POWER_OF_UR_DAD'>[𝐆𝐡𝐨𝐬𝐭]</a> «««</i></b>
+<b><i>╰•★★ 💫 🅤🅢🅔🅡 🅑🅞🅣 🅐🅛🅘🅥🅔 💫 ★★•╯</b></i>
+
+       ◆━━━━━━━━◉●•●◉━━━━━━━◆    
+  <b><i>  🅾🆆🅽🅴🆁⇀</i></b> : 『 {Hemml_mention} 』
+       ◆━━━━━━━━◉●•●◉━━━━━━━◆
+    ┏━━━━━━━━━🧸━━━━━━━━┓
+    ║➤ <b>» 𝐓ᴇʟᴇᴛʜᴏɴ•</b> <i>{telethon_version}</i>
+    ║➤ <b>» 𝐏ʙxʙᴏᴛ•</b> <i>{hemml_version}</i>
+    ║➤ <b>» 𝐒ᴜᴅᴏ•</b> <i>{is_sudo}</i>
+    ║➤ <b>» 𝐔ᴘᴛɪᴍᴇ•</b> <i>{uptime}</i>
+    ║➤ <b>» 𝐏ɪɴɢ•</b> <i>{ping}</i>
+    ║
+    ║      ╔══════════════╗
+    ║➤        <b><i>✬ <a href='https://t.me/FEEL_THE_POWER_OF_UR_DAD'> 🇨🇦  𝗚𝗛𝗢𝗦𝗧  🌸 </a> ✬</i></b>
+    ║      ╚══════════════╝
+    ┗━━━━━━━━━🧸━━━━━━━━┛
 """
 
 msg = """{}\n
 <b><i>🏅 𝙱𝚘𝚝 𝚂𝚝𝚊𝚝𝚞𝚜 🏅</b></i>
 <b>Telethon ≈</b>  <i>{}</i>
-<b>Hêllẞø† ≈</b>  <i>{}</i>
+<b>𝐏ʙ𝐗ʙᴏᴛ ≈</b>  <i>{}</i>
 <b>Uptime ≈</b>  <i>{}</i>
 <b>Abuse ≈</b>  <i>{}</i>
 <b>Sudo ≈</b>  <i>{}</i>
