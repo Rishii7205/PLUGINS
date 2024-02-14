@@ -242,7 +242,7 @@ HelpMenu("profile").add(
     "getpfp",
     "<reply/username/id> <limit>",
     "Get number of profile pic of a user.",
-    "getpfp @ForGo10God 5",
+    "getpfp @FEEL_THE_POWER_OF_UR_DAD 5",
 ).add(
     "setpfp",
     "<reply to photo>",
@@ -260,7 +260,7 @@ HelpMenu("profile").add(
     "setusername",
     "<new username>",
     "Set the username of the bot.",
-    "setusername HellBot",
+    "setusername RISHII",
     "To remove the username dont pass any argument.",
 ).add(
     "delpfp",
@@ -272,7 +272,7 @@ HelpMenu("profile").add(
     "github",
     "<username>",
     "Get the github profile of a user.",
-    "github hellboy-op",
+    "github rishii7205",
 ).info(
     "Profile Module"
 ).done()
