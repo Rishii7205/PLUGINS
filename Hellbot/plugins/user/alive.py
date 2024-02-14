@@ -15,12 +15,12 @@ ALIVE_TEMP = """
 <b><i>↼ Øwñêr ⇀</i></b> : 『 {hell_mention} 』
 ╭──────────────
 ┣─ <b>» Telethon:</b> <i>{telethon_version}</i>
-┣─ <b>» Hêllẞø†:</b> <i>{hellbot_version}</i>
+┣─ <b>» 𝐔𝐬𝐞𝐫𝐁ø†:</b> <i>{hellbot_version}</i>
 ┣─ <b>» Sudo:</b> <i>{is_sudo}</i>
 ┣─ <b>» Uptime:</b> <i>{uptime}</i>
 ┣─ <b>» Ping:</b> <i>{ping}</i>
 ╰──────────────
-<b><i>»»» <a href='https://t.me/its_hellbot'>[†hê Hêllẞø†]</a> «««</i></b>
+<b><i>»»» <a href='https://t.me/FEEL_THE_POWER_OF_UR_DAD'>[𝐆𝐡𝐨𝐬𝐭]</a> «««</i></b>
 """
 
 msg = """{}\n
