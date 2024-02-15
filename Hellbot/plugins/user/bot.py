@@ -24,7 +24,7 @@ async def alive(client: Client, message: Message):
             user_pfp = await client.download_media(message.from_user.photo.big_file_id)
             del_path = True
         else:
-            user_pfp = "./Hellbot/resources/images/hellbot_logo.png"
+            user_pfp = "./Hellbot/resources/images/rishii.png"
             del_path = False
         img = [
             generate_alive_image(
