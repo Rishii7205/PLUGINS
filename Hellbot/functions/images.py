@@ -67,7 +67,7 @@ def generate_alive_image(
 
     img = img_rounded.rotate(-45, expand=True)
 
-    background = Image.open("./Hellbot/resources/images/hellbot_alive.png").convert(
+    background = Image.open("./Hellbot/resources/images/RISHII.png").convert(
         "RGBA"
     )
 
